@@ -1,11 +1,11 @@
 {
-  "name": "angularjs-gulp-browserify-boilerplate",
-  "version": "1.7.1",
-  "author": "Jake Marsh <jakemmarsh@gmail.com>",
+  "name": "angularjs-boilerplate",
+  "version": "1.0.0",
+  "author": "Terry Owen <terry@iknowmac.com>",
   "description": "Boilerplate using AngularJS, SASS, Gulp, and Browserify while also utilizing best practices.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jakemmarsh/angularjs-gulp-browserify-boilerplate.git"
+    "url": "https://github.com/towen/angularjs-boilerplate.git"
   },
   "license": "MIT",
   "keywords": [
